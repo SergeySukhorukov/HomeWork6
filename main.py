@@ -177,6 +177,7 @@ print()
 print(reviewer_1)
 print()
 
+
 print(f"Средняя оценка по всем студентам в курсе Python: {average_student(students, 'Python')}")
 print(f"Средняя оценка по всем преподавателям в курсе Git: {average_lecture(lecturers, 'Git')}")
 
